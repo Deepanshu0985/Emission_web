@@ -192,7 +192,6 @@ MIT License - feel free to use this project for learning or building upon.
 ## 👨‍💻 Author
 
 **Deepanshu Yadav**  
-Stride Labs — HackForward 2025 Submission
 
 ---
 
